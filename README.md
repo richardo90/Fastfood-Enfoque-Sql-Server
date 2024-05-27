@@ -1,1 +1,4 @@
 # Fastfood-Enfoque-Sql-Server
+
+####La empresa Fastfood aún enfrenta el desafío de gestionar información dispersa en archivos de Google Sheets y documentos manuales , por lo cual el papel desarrollado como analista de datos en esta empresa se enfocó en llevar a cabo la transición  hacia una base de datos consolidada , garantizando la escalabilidad y toma de decisiones.
+Un proyecto realizado en cuatro etapas,  cada etapa buscaba consolidar la creación de la base de datos,para lo cual se fue desarrollado progresivamente, iniciando por la realización de un esquema de entidad -relación con la respectiva creación de tablas ,luego se procede a el cargue de la información brindada por la empresa, ya en la tercera y cuarta parte se desarrollan unas queries donde a través de una serie de consultas se brindó un apoyo, logrando  dar respuesta a una serie de interrogantes que permitirán entender y dar una guia al negocio para  posibles decisiones estratégicas.
